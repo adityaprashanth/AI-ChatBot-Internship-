@@ -1,0 +1,55 @@
+---------------------------------------- Questions To Ask----------------------------------------------
+
+what was rented by Adam Grant 
+what is the actor_id of Ed Chase
+what is the film_id of Chamber Italian
+what is the title of film_id 133  
+what is the description of Chamber Italian
+what is the release_year of Chamber Italian
+what is the rental_duration of Chamber Italian
+what is the rental_rate of Chamber Italian
+what is the length of Chamber Italian
+what is the replacement_cost of Chamber Italian
+what is the rating of Chamber Italian
+what is the customer_id of Jared Ely 
+what is the email of Jared Ely
+what is the address_id of Jared Ely
+what is the payment_id of Jared Ely
+what is the rental_id of Jared Ely 
+what is the amount paid by Jared Ely
+what is the address of Jared Ely
+what is the district of Jared Ely
+what is the city_id of Jared Ely
+what is the postal_code of Jared Ely
+what is the phone number of Jared Ely
+
+------------------------------------------- Keywords ---------------------------------------------------
+
+rented
+actor_id
+film_id
+title  
+description
+release_year
+rental_duration
+rental_rate
+length 
+replacement_cost
+rating
+customer_id
+email
+address_id
+payment_id
+rental_id 
+amount
+address
+district
+city_id
+postal_code
+phone number
+
+----------------------------------------------- Question ----------------------------------------------
+
+write a python code to take a user NLP input and based on the intent give the desired output, where the input can be anything and the chatbot must identify what it is and give the output accordingly
+
+write a python code to take a user NLP input and based on the DVD rental postgre SQL database it must give the desired output. The input can be anything and the chatbot must identify what it is and give the output accordingly
